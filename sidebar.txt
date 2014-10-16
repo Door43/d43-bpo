@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[bpo:home|Door43 (bpo)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-bpo|d43-bpo repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-bpo/archive/master.zip|d43-bpo.zip]]
+
+**Recent Changes**
+{{changes>ns = bpo}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/bpo|Ethnologue data]]
+
